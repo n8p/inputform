@@ -30,9 +30,6 @@
           // do some proper error handling here.
         }
     });
-
-
-
   });
 
   /**
