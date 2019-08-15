@@ -3,7 +3,6 @@
  * validate.php
  * Simple PHP class and validation logic for form input.
  */
-
 $val = new Validator();
 $val->email($_POST['email'], 'email');
 $val->text($_POST['phrase'], 'phrase');
